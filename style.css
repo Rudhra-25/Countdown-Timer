@@ -1,0 +1,28 @@
+body{
+  background-image: url('countdown timer.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+  margin: 200px auto;
+}
+#timer {
+  font-size: 72px;
+  text-align: center;
+}
+
+#controls {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  font-size: 20px;
+  margin: 5px;
+}
+
+button:hover{
+  opacity: 1;
+}
